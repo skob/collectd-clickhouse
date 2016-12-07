@@ -1,0 +1,3 @@
+metrics				value:GAUGE:U:U
+asynchronous_metrics		value:GAUGE:U:U
+events				value:COUNTER:0:U
